@@ -1,5 +1,7 @@
 <h1 align="center">Github Repo Finder<h1>
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
+
+![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
 This project is a web application that uses GitHub's API to search for open source projects with open issues and pull requests. This applications uses the browser's Fetch API to communicate with the server. 
