@@ -15,7 +15,7 @@ var getRepoIssues = function(repo) {
 
         // check if api has paginated issues
         if (response.headers.get("Link")) {
-          displayWarning(repo);
+            displayWarning(repo);
         }
       });
     }
